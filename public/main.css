@@ -1,24 +1,4 @@
 #profile-picture {
-    height: 660px;
-    width: auto;
-}
-
-#linkdin-button {
-    border-color: white;
-    color: #8d7a8d;
-}
-
-#linkdin-button:hover {
-    border-color: white;
-    color: white;
-}
-
-#insta-button {
-    border-color: white;
-    color: #8d7a8d;
-}
-
-#insta-button:hover {
-    border-color: white;
-    color: white;
+    width: 100%;
+    height: auto;
 }
